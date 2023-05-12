@@ -1,0 +1,26 @@
+#columna-1 {
+	background-color: #009ddb;
+	color: white;
+	text-align: center;
+	width: 320px;
+}
+
+#columna-2 {
+	padding-left: 30px;
+	width: 450px;
+}
+
+#nombre {
+	font-size: 40px
+}
+
+h3 {
+	color: #2bacdf;
+	padding-bottom: 8px;
+	border-bottom: 2px solid #E5E5E5;
+}
+
+h4 {
+	font-size: 15px;
+	font-weight: normal;
+}
